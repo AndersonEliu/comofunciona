@@ -1,1 +1,1 @@
-# comofunciona
+# como funciona
